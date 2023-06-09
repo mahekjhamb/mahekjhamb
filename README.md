@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahek (She/Her)</h1>
+<h1 align="center">Hi 👋, I'm Mahek Jhamb (She/Her)</h1>
 <h3 align="center">An aspiring android developer from India</h3>
 
 - 🌱 I’m currently learning **Native Android Development**
